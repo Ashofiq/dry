@@ -1,0 +1,12 @@
+<?php
+
+namespace App\Service;
+
+/** Dev: Ahmad Shafik Git: Ashofiq */
+
+class DummyClass
+{   
+    public function __construct() {
+
+	}
+}
